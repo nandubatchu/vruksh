@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "name": "Alice",
+    "parents": {
+        "biologialFather": {},
+        "biologicalMother": {}
+    },
+    "spouse": {
+        "id": 2,
+        "name": "Bob",
+        "children": []
+    },
+    "children": [
+        {
+            "id": 3,
+            "name": "Alice 1",
+            "children": []
+        },
+        {
+            "id": 4,
+            "name": "Bob 1",
+            "children": []
+        }
+    ]
+}
